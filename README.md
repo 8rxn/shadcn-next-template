@@ -1,4 +1,10 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+This is a [Next.js](https://nextjs.org/) template That has ShadCN and nextThemes already set up for ready access. To use this template run:
+
+```bash
+
+npx create-next-app -e https://github.com/8rxn/shadcn-next-template
+
+```
 
 ## Getting Started
 
